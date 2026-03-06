@@ -95,6 +95,14 @@
 
 </div>
 
+
+![6's GitHub Stats][github-stats-img]
+
+[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=weshaan&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Top Languages" align="" width="295">
+
+
+
 <img width="2580" height="780" alt="Untitled" src="https://github.com/user-attachments/assets/4f722ec3-9534-45d2-916f-f1c2751f818f" />
 
 
