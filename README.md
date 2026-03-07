@@ -68,11 +68,11 @@
   </div></br>
 <!--![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)--->
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
- Hacktoberfest and holopin badges and achievements:
+
 
 <!-- [![An image of @weshaan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/weshaan)](https://holopin.io/@weshaan) -->
 
-<div>
+<div align="center">
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weshaan/weshaan/output/github-contribution-grid-snake-dark.svg">
@@ -99,16 +99,21 @@
 
 ---
 
-![6's GitHub Stats][github-stats-img]
+<!--![6's GitHub Stats][github-stats-img]
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=weshaan&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Top Languages" align="" width="295">
+-->
+<p align="center">
+  <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=weshaan&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=html,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" width="336"/>
 
+  <img src="https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" width="500"/>
+</p>
 
+---
 
 <img width="2580" height="780" alt="Untitled" src="https://github.com/user-attachments/assets/4f722ec3-9534-45d2-916f-f1c2751f818f" />
 
-
+---
 
 <!---
 weshaan/weshaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
