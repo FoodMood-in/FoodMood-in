@@ -99,7 +99,6 @@
 
 ---
 
-
 ![6's GitHub Stats][github-stats-img]
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
