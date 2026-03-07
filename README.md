@@ -1,4 +1,4 @@
- <div align="center"><h2> A senior once told me, “Proof of work, because vibes alone don’t ship products.” </h2></div>
+ <div align="center"><h2> A senior once told me, “Proof of work, because words alone don’t sell products.” </h2></div>
  <img alt="holopin" src="https://holopin.me/weshaan" ><p align="center"><em>Hacktoberfest and holopin achivements.</em></p>
 
 ---
